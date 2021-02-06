@@ -1,6 +1,7 @@
 Mod:
 
 # entity_grab by Lanhild
+PilzAdam is the original author of this mod.
 
 ## This mod allows player-dropped entities to be picked-up without clicking endlessly.
 
